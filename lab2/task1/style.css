@@ -1,0 +1,27 @@
+
+
+.container {
+    height: 100px;
+     display: flex;
+      align-items :center;}
+.task1 {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content:space-between;
+    width: 100px;
+
+}
+
+
+.rabbit-container {
+    cursor: grab;
+    font-weight: bold;
+    max-width: 500px !important;
+    max-height: 500px !important;
+    text-align: center;
+}
+
+.rabbit-container p {
+    background-color: white;
+}
